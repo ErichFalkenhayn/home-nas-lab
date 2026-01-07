@@ -1,0 +1,25 @@
+# Home NAS Lab – Project Summary
+
+## Overview
+This project documents the design and operation of a personal NAS environment,
+created as a learning-focused home lab to gain hands-on experience in system administration.
+
+## Objectives
+- Centralized file storage
+- Data protection through backups
+- User and permission management
+- Understanding storage and infrastructure fundamentals
+
+## Technical Scope
+- NAS operating system: OpenMediaVault / Synology DSM
+- RAID-based storage configuration
+- User and group-based access control
+- Scheduled backups
+- Basic monitoring and troubleshooting
+
+## Key Learnings
+- Storage planning and redundancy concepts
+- Practical permission management
+- Importance of documentation in system operations
+- Systematic approach to troubleshooting
+
