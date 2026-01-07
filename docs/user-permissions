@@ -1,0 +1,13 @@
+# User and Permission Management
+
+## User Management
+- Separate users for different access needs
+
+
+## Shared Folders
+- Role-based access (read/write)
+- Restricted access for sensitive data
+
+## Purpose
+- Practice access control concepts
+
