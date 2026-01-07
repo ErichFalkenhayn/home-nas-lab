@@ -1,0 +1,10 @@
+# Storage and RAID Configuration
+
+## RAID Setup
+- RAID type: RAID1 / RAID5 (depending on setup)
+- Purpose: Data redundancy and availability
+
+## Considerations
+- Performance vs redundancy trade-offs
+- Disk health monitoring
+- Expandability for future learning
