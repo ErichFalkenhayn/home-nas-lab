@@ -10,7 +10,7 @@ created for learning system administration and infrastructure fundamentals.
 - Hands-on experience with system administration concepts
 
 ## Environment Overview
-- NAS OS: OpenMediaVault / Synology / TrueNAS (choose the one you use)
+- NAS OS: OpenMediaVault 
 - Storage: RAID-based configuration
 - Network: Home LAN environment
 - Access: Local network users
